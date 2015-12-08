@@ -41,6 +41,13 @@ nav a:hover{ /* How it looks when you hover with muose */
 	margin: 0px auto 0px auto; /* top right bottom left */
 	
 }
+
+.Login{
+	padding-left: 75%; 
+	position: fixed;
+	float: right;
+
+}
 .video{
 	margin: 0px 0px 0px 250px;
 }
