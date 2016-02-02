@@ -86,7 +86,7 @@ form .input
 	margin-bottom:75px;
 	
 	}
-<<<<<<< HEAD
+
 .Gant {
 	position:relative;
 	width: 80%;
@@ -97,7 +97,7 @@ form .input
  img{
 	float:right;  	
 	
-=======
+
 
 .ralphlaurens { 
 position:relative;
@@ -109,5 +109,18 @@ position:relative;
 .ralphlaurens img{
 float:right;
 
->>>>>>> 4ce1ecfc6c345a60813b555f65c79cbb133041c5
+
+}
+
+.Morris {
+
+	position:relative;
+	width: 100%;
+	margin: 0px auto 0px auto; /* top right bottom left */
+
+}
+
+.Morris img {
+float: right;
+
 }
