@@ -85,3 +85,15 @@ form .input
 .Innehall h3{
 	margin-bottom:75px;
 	}
+
+.ralphlaurens { 
+position:relative;
+	width: 100%;
+	margin: 0px auto 0px auto; /* top right bottom left */
+	
+} 
+
+.ralphlaurens img{
+float:right;
+
+}
