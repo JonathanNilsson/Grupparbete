@@ -84,4 +84,16 @@ form .input
 	}
 .Innehall h3{
 	margin-bottom:75px;
+	
 	}
+.Gant {
+	position:relative;
+	width: 80%;
+	margin: 0px auto 0px auto; /* top right bottom left */
+	
+}
+
+ img{
+	float:right;  	
+	
+}
