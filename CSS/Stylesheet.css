@@ -97,3 +97,16 @@ position:relative;
 float:right;
 
 }
+
+.Morris {
+
+	position:relative;
+	width: 100%;
+	margin: 0px auto 0px auto; /* top right bottom left */
+
+}
+
+.Morris img {
+float: right;
+
+}
