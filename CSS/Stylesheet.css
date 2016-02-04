@@ -132,10 +132,22 @@ float: right;
 	width: 100%;
 	margin: 0px auto 0px auto; /* top right bottom left */
 
-
 }
 
 .Logos img {
 float: right;
+
+}
+
+.ralphlaurensA { 
+position:relative;
+	width: 100%;
+	margin: 0px auto 0px auto; /* top right bottom left */
+	
+} 
+
+.ralphlaurensA img{
+float:right;
+
 
 }
