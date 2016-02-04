@@ -177,4 +177,16 @@ float:right;
 }
 
 
+.CalvinKleinA{ 
+position:relative;
+	width: 100%;
+	margin: 0px auto 0px auto; /* top right bottom left */
+	
+} 
+
+.CalvinKleinA img{
+float:right;
+
+}
+
 
