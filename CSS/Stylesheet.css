@@ -94,10 +94,10 @@ form .input
 	
 }
 
- img{
-	float:right;  	
+ .Gant img{
+	float:right;		  	
 	
-
+}
 
 .ralphlaurens { 
 position:relative;
@@ -121,6 +121,21 @@ float:right;
 }
 
 .Morris img {
+float: right;
+
+}
+
+
+.Logos {
+
+	position:relative;
+	width: 100%;
+	margin: 0px auto 0px auto; /* top right bottom left */
+
+
+}
+
+.Logos img {
 float: right;
 
 }
