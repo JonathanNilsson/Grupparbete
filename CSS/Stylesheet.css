@@ -37,7 +37,7 @@ nav a:hover{ /* How it looks when you hover with muose */
 
 .container{
 	position:relative;
-	width: 80%;
+	width: 50%;
 	margin: 0px auto 0px auto; /* top right bottom left */
 	
 }
